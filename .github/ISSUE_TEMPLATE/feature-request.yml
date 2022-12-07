@@ -37,7 +37,6 @@ body:
           - **OS**: Ubuntu 20.04
       value: |
           - OS:
-      render: Markdown
     validations:
       required: false
 
